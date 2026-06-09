@@ -28,9 +28,8 @@ I'm **Atul**, a passionate developer building innovative solutions.
 - 💡 Exploring new frameworks and technologies
 
 ## 📫 How to reach me
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn URL]
-- **Twitter**: [Your Twitter Handle]
+- **Email**: patul2653@gmail.com
+- **LinkedIn**: https:// linkedin.com/atul-pandey-a605b0288
 
 ## ⚡ Fun Fact
 I love debugging code almost as much as I love writing it! 😄
